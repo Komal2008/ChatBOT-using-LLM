@@ -1,5 +1,5 @@
 
-This project is a modern LLM-based chatbot built using LangChain and Groq API. It leverages the power of the Llama 3 model to generate intelligent, human-like, and context-aware responses.
+This project is a modern LLM-based chatbot built using LangChain and Groq API [https://github.com/Komal2008/ChatBOT-using-LLM/blob/main/chatbot.jpeg]. It leverages the power of the Llama 3 model to generate intelligent, human-like, and context-aware responses.
 
 To enhance accuracy and memory, the chatbot integrates Hugging Face embeddings with the FAISS vector database, enabling efficient storage and retrieval of conversation context.
 
