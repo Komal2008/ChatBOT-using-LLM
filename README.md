@@ -30,11 +30,11 @@ The chatbot can generate intelligent and context-aware responses while maintaini
 
 ## ⚙️ How It Works
 
-1. User enters a query in the terminal  
-2. Query is converted into embeddings  
-3. Relevant memory/context is retrieved from FAISS  
-4. Context and query are sent to the Llama 3 model  
-5. AI generates a contextual response  
+1. User enters a query in the terminal.  
+2. Query is converted into embeddings.  
+3. Relevant memory/context is retrieved from FAISS. 
+4. Context and query are sent to the Llama 3 model.  
+5. AI generates a contextual response.  
 
 ---
 
@@ -42,4 +42,6 @@ The chatbot can generate intelligent and context-aware responses while maintaini
 
 ```bash
 pip install -r requirements.txt
-python LLM.py
+python LLM.py```
+
+
